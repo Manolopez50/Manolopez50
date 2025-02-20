@@ -35,6 +35,6 @@ Soy **Ingeniero Industrial** con un **MBA** y recientemente he completado un **b
 
 - Correo electrónico: [manolopez1289@gmail.com]
 - LinkedIn: [www.linkedin.com/in/jorge-lopez-evaristo/]
-- GitHub: [Tu perfil de GitHub]
+- GitHub: [https://github.com/Manolopez50]
 
 ## ¡Gracias por visitar mi perfil! 🙌
